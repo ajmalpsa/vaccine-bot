@@ -1,0 +1,566 @@
+{
+    "centers": [
+        {
+            "center_id": 147374,
+            "name": "Kumily FHC",
+            "address": "Kumali P.O Kumali",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Vandiperiyar CHC",
+            "pincode": 685509,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4a1672f9-1af3-4cd4-b670-f4fcd988192d",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147309,
+            "name": "Kokkayar PHC",
+            "address": "Meloram P.O Meloram",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Vandiperiyar CHC",
+            "pincode": 685532,
+            "lat": 9,
+            "long": 76,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3eb79d98-4ae9-4a03-a4a6-b916e1b43384",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 40,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147464,
+            "name": "Peerumedu SMS Hall",
+            "address": "Peerumedu P.O Peerumedu",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Vandiperiyar CHC",
+            "pincode": 685531,
+            "lat": 9,
+            "long": 76,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "af729005-7aa7-4c84-b550-c5e10fa4aacc",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "09d9552e-db93-4de0-b28c-b5c57a73ba14",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 640332,
+            "name": "Elappara Govt HSS",
+            "address": "Elappara Gramma Panchayath",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Vandiperiyar CHC",
+            "pincode": 685501,
+            "lat": 9,
+            "long": 76,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "fca4ff54-0ced-4068-a77f-c244f9165582",
+                    "date": "09-06-2021",
+                    "available_capacity": 7,
+                    "min_age_limit": 40,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 7,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147485,
+            "name": "Rajakkadu CHC",
+            "address": "Rajakkadu P.O Mullakkanam",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Rajakkadu CHC",
+            "pincode": 685566,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "665471ba-f680-4c7f-ba12-68bc443057b7",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147537,
+            "name": "Udumbanchola FHC",
+            "address": "Udumbamchola P.O Udumbanchola",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Pampadumpara CHC",
+            "pincode": 685554,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "80fc97e0-1595-4702-9938-0fdaf221cd9e",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 723687,
+            "name": "Kallar Nedumkandam",
+            "address": "Kallar",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Pampadumpara CHC",
+            "pincode": 685552,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "40d5e55c-e49d-41eb-a26f-9c1ecc5ce754",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 735528,
+            "name": "MMU Tribal Health",
+            "address": "MMU Tribal",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Muttom CHC",
+            "pincode": 685588,
+            "lat": 9,
+            "long": 76,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "54b65b8f-fc19-4be9-8c8b-be985eb91726",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147557,
+            "name": "Upputhara CHC",
+            "address": "Upputhara P.O Upputhara",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Upputhara CHC",
+            "pincode": 685505,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1aedc3f9-012f-4b85-9628-16121d8a12c0",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 605178,
+            "name": "High Range Hospital Munnar",
+            "address": "Munnar P.O",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Chithirapuram CHC",
+            "pincode": 685620,
+            "lat": 10,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "bbe9e7e2-2b22-4380-8be7-3de404470b78",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVAXIN",
+                    "fee": "1350"
+                }
+            ]
+        },
+        {
+            "center_id": 713798,
+            "name": "Palliative Unit Idukki",
+            "address": "Idukki kerala",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Muttom CHC",
+            "pincode": 685602,
+            "lat": 9,
+            "long": 76,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "ac8b78ec-375f-4e96-aa75-a9fa3c603609",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "346e9e5f-92d7-4bc1-9e9a-c143262db61c",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147592,
+            "name": "Vandiperiyar CHC",
+            "address": "Vandiperiyar P.O Vandiperiyar",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Vandiperiyar CHC",
+            "pincode": 685533,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "09f1b33b-6e33-4c15-8c82-365e8b6a90ab",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "246bbaba-b537-46f1-86b2-f420e368c070",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147335,
+            "name": "KP Colony PHC",
+            "address": "KP Colony P.O Kp Colony",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Pampadumpara CHC",
+            "pincode": 685552,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4e5075ae-1a27-4ee5-88f2-5dce8b2f040f",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "3d43a2b5-96fe-46ae-93d9-f75b4a559297",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 628105,
+            "name": "Idukki DH Medical Collage Idki",
+            "address": "Idukki Medical Collage Building",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Muttom CHC",
+            "pincode": 685603,
+            "lat": 9,
+            "long": 77,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1b7c285c-cbc9-4757-b477-e411780987c5",
+                    "date": "09-06-2021",
+                    "available_capacity": 126,
+                    "min_age_limit": 40,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 126,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 147415,
+            "name": "Marayoor CHC",
+            "address": "Marayoo P.O  Marayoo",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Chithirapuram CHC",
+            "pincode": 685620,
+            "lat": 0,
+            "long": 0,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "bc081cfa-3e4d-4991-aac1-feeae188028d",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 563978,
+            "name": "Merchant Trust Hall Thodupuzha",
+            "address": "KARIKODE  THODUPUZHA",
+            "state_name": "Kerala",
+            "district_name": "Idukki",
+            "block_name": "Purapuzha CHC",
+            "pincode": 685585,
+            "lat": 9,
+            "long": 76,
+            "from": "09:00:00",
+            "to": "14:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "fd930925-ad74-4dd5-addf-668d98b901bd",
+                    "date": "09-06-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 18,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-02:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        }
+    ]
+}
