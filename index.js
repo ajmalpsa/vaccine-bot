@@ -9,11 +9,10 @@ app.get("/",(req, res)=>{
     res.send("bot is working...");
 })
 
-cron.schedule('0 0 * * * *',()=>{
+cron.schedule('0 */5 * * * *',()=>{
 sendMessageAction();
 console.log("cron job ran");
 });
-sendMessageAction();
 
 
 app.listen(port,'0.0.0.0', ()=>{
