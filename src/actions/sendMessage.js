@@ -6,12 +6,12 @@ const oldJson = require("../../test2.json");
 
 
 const dataset = {
-    data : [],
+    data: [],
 
     get getData() {
         return this.data;
     },
-    set setData(newData){
+    set setData(newData) {
         this.data = newData;
     }
 }
@@ -23,16 +23,23 @@ const sendMessageAction = () => {
     fetchSlots()
         .then((data) => {
             const centers = filterCenters(data.data.centers);
-            dataset.setData = centers;
-            let diff = jsondiff.diff(dataset.getData, centers);
-            if(diff){
-                bot.sendMessage(myId, "diff found");
-                console.log(diff);
-                dataset.setData(centers)
+            console.log(dataset.getData.length);
+            if (dataset.getData.length == 0) {
+                dataset.setData = centers;
+                bot.sendMessage(myId, "data set");
             }
-            else{
-                bot.sendMessage(myId, "no diff found");
-                console.log(diff);
+            else {
+                let diff = jsondiff.diff(dataset.getData, centers);
+                if (diff) {
+                    bot.sendMessage(myId, "diff found, data set");
+                    console.log(diff);
+                    dataset.setData = centers;
+                    console.log("data found");
+                }
+                else {
+                    console.log("no diff");
+                    bot.sendMessage(myId, "no diff found");
+                }
             }
 
 
@@ -55,8 +62,8 @@ const sendMessageAction = () => {
         })
 
 
-    var timer = setInterval(function() {
-        if(messageArray.length) {
+    var timer = setInterval(function () {
+        if (messageArray.length) {
             //bot.sendMessage(channel_id, messageArray.shift())
         } else {
             clearInterval(timer);
