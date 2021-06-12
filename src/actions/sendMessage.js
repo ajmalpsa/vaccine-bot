@@ -67,7 +67,7 @@ const sendMessageAction = () => {
 
         })
         .catch((err) => {
-            bot.sendMessage(myId, "Error occured")
+            bot.sendMessage(myId, err)
             //console.log(err);
         })
 
