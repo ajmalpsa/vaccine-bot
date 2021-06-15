@@ -74,7 +74,8 @@ const sendMessageAction = () => {
 
     var timer = setInterval(function () {
         if (messageArray.length) {
-            bot.sendMessage(myId, messageArray.shift())
+            bot.sendMessage(myId, messageArray.shift());
+            bot.sendMessage(channel_id, messageArray.shift());
             //console.log(messageArray.shift());
         } else {
             clearInterval(timer);
