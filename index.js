@@ -10,7 +10,7 @@ app.get("/",(req, res)=>{
     res.send("bot is working...");
 })
 //bot.sendMessage("374255531", "hello");
-cron.schedule('* */10 * * * *',()=>{
+cron.schedule('* * * * * *',()=>{
 sendMessageAction();
 
 });
